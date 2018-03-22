@@ -1,0 +1,24 @@
+{
+  "name": "vue-weathericons",
+  "version": "0.0.1",
+  "description": "Component for weathericons",
+  "main": "WeatherIcons.vue",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecrius/vue-weathericons.git"
+  },
+  "keywords": [
+    "VueJs",
+    "weathericons",
+    "ui",
+    "component"
+  ],
+  "author": "claudio.vallesi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecrius/vue-weathericons/issues"
+  },
+  "homepage": "https://github.com/thecrius/vue-weathericons#readme"
+}
