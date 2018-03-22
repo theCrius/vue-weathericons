@@ -43,5 +43,5 @@ export default {
 ```
 
 ## Contributions
----------------
+
 All contributions are welcome as they'll help me keep messing up with Vue.
