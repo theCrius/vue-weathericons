@@ -8,14 +8,12 @@ A simple VueJS component made as first attempt of messing around with VueJs (and
 This package require [weathericons](https://www.npmjs.com/package/weathericons) as peer dependency and of course needs to be used inside a VueJS application.
 
 ## Installation
----------------
 
 ``` sh
 npm install --save vue-weathericons
 ```
 
 ## Usage
----------------
 
 In your component:
 
