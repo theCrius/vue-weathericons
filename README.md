@@ -1,17 +1,19 @@
 vue-weathericons
 =============
 
-A simple VueJs component made as first attempt of messing around with VueJs (and publishing my first NPM).
+A simple VueJS component made as first attempt of messing around with VueJs (and publishing my first NPM).
+
+## Requirements
+
+This package require [weathericons](https://www.npmjs.com/package/weathericons) as peer dependency and of course needs to be used inside a VueJS application.
 
 ## Installation
----------------
-### npm
+
 ``` sh
 npm install --save vue-weathericons
 ```
 
 ## Usage
----------------
 
 In your component:
 
@@ -41,5 +43,5 @@ export default {
 ```
 
 ## Contributions
----------------
+
 All contributions are welcome as they'll help me keep messing up with Vue.
