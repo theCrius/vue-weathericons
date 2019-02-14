@@ -10,7 +10,7 @@ This package require [weathericons](https://www.npmjs.com/package/weathericons) 
 ## Installation
 
 ``` sh
-npm install --save vue-weathericons
+npm install --save vue-weathericons weathericons
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ In your component:
 
 ```vue
 <script>
-import WeatherIcon from 'WeatherIcons';
+import WeatherIcon from 'vue-weathericons';
 
 export default {
   name: 'myComponentName',
