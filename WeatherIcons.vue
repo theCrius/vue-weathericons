@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import "weathericons/sass/weather-icons.scss";
-import "weathericons/sass/weather-icons-wind.scss";
+import "weathericons/css/weather-icons.css";
+import "weathericons/css/weather-icons-wind.css";
 
 export default {
   props: {
